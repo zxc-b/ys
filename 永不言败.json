@@ -6,12 +6,12 @@
 
 {
 
-"warningText":"小盒酷玩提醒：江湖路漫漫-有缘再会！",    
+"warningText":"往后余生，永不言败",    
 
 
 "sites":[
 
-{"key": "豆瓣","name": "小盒酷玩","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "永不言败","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
@@ -19,7 +19,7 @@
 
 {"key": "厂长","name": "🐼厂长┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/厂长.json"},
 
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "douban","name": "永不言败","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ],
