@@ -131,7 +131,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://jihulab.com/zxc2/kw/-/blob/main/%E7%9B%B4%E6%92%AD.txt",
+		    "url": "https://jihulab.com/zxc2/kw/-/raw/main/999999.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
