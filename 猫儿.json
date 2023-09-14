@@ -3,13 +3,15 @@
 
 "wallpaper": "https://api.likepoems.com/img/bing/",
 
-"lives": [{"name": "live","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+"lives": [{"name": "live","type": 0,"url": "https://jihulab.com/zxc2/kw/-/raw/main/999999.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "warningText": "好好学习天天向上！",
 
 "sites": [
 
 {"key":"豆瓣","name":"投影仪砖家超哥","type": 3,"api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/4548/js/Doubanrebo.js"},
+
+{"key":"csp_SP33","name":"🍇三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 {"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 
