@@ -5,6 +5,12 @@
 
 "sites":[
 
+{"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_SP33","name":"🍇三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"csp_Qtv","name":"🍉腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
+{"key":"csp_Itv","name":"🍊爱爱┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
+{"key":"csp_Mtv","name":"🍋芒芒┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"csp_Yj1211","name":"🥏网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"style":{"type":"rect","ratio":1.597},"filterable": 1},
 {"key": "豆瓣","name": "豆瓣｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 
@@ -75,7 +81,22 @@
 "parses": [ 
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
-
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
+{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
+{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"ok","type":0,"url":"https://okjx.cc/?url="},
+{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+{"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"cod","type":0,"url":"https://ksksl.codjx.com/?url="},
+{"name":"byg解析","type":0,"url":"https://byg.ziqj5.shop/?url="},
+{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"26db","type":0,"url":"http://vip.26db.cn/g/?url="},
+{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
+{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
+{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name": "web聚合","type": 3,"url": "Web"},
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
