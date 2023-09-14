@@ -11,10 +11,6 @@
 
 {"key":"豆瓣","name":"投影仪砖家超哥","type": 3,"api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/4548/js/Doubanrebo.js"},
 
-{"key":"csp_SP33","name":"🍇三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-{"key":"csp_77","name":"🎃七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-
 {"key":"奇异","name":"🐈‍奇艺|JS","type":3,"api":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js","ext":"https://download.kstore.space/download/4548/js/aiqiyi.js"},
 
 {"key":"优酷","name":"🐈‍优酷|JS","type":3,"api":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js","ext":"https://download.kstore.space/download/4548/js/youku.js"},
