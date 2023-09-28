@@ -39,7 +39,7 @@
 
 {"key":"ytyb","name":"🐰野兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"},
 
-{"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"csp_XBPQ","ext":"./json/厂长.json"},
+{"key":"厂长","name":"厂长资源","type":3,"api":"csp_XBPQ","ext":"./json/厂长.json"},
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
