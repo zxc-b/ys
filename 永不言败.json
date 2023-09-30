@@ -82,8 +82,6 @@
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
-{"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
-
 {"name": "web聚合","type": 3,"url": "Web"},
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
