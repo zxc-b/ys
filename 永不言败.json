@@ -84,6 +84,35 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
+{
+        "name": " 🥣盖碗解析",
+              "type": 1,
+                    "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+                          "ext": {
+                                  "flag": [
+                                            "qiyi",
+                                                      "爱奇艺",
+                                                                "奇艺",
+                                                                          "youku",
+                                                                                    "优酷",
+                                                                                              "mgtv",
+                                                                                                        "芒果",
+                                                                                                                  "letv",
+                                                                                                                            "乐视",
+                                                                                                                                      "pptv",
+                                                                                                                                                "PPTV",
+                                                                                                                                                          "sohu",
+                                                                                                                                                                    "xigua",
+                                                                                                                                                                              "bilibili",
+                                                                                                                                                                                        "哔哩哔哩",
+                                                                                                                                                                                                  "哔哩"
+                                                                                                                                                                                                          ],
+                                                                                                                                                                                                                  "header": {
+                                                                                                                                                                                                                            "User-Agent": "okhttp/4.1.0"
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                              },
+
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
