@@ -9,6 +9,20 @@
 
 {"key": "csp_AppYsV2_玉米","name": "🌽玉米┃切片","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
 
+   {    "key": "蜗牛弹幕",
+                   "name": "蜗牛弹幕",
+                                   "type": 3,
+                                                   "api": "csp_XBPQ",
+                                                                   "ext": {
+                                                                    "简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",               
+                                                                     "数组":"class=\"module-item-text\"&&class=\"loading\"",
+                                                                       "线路数组":"data-dropdown-value=&&</div>",
+                                                                          "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",        
+                                                                           "副标题":" class=\"module-item-text\">&&</div>",   
+                                                                            "分类":"电影$1#日韩剧$21#海外剧$2#动漫$20",   
+                                                                                "分类url":"https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"   
+                                                                                        }
+                                                                                                },
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
 {"key": "Upyunso","name": "阿里 ┃ 云搜[4K]","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/tok.txt"},
