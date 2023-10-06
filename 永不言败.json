@@ -8,7 +8,7 @@
 {"key": "豆瓣","name": "豆瓣｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 
-{"key": "追忆","name": "🌠追忆┃TV","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"},
+{"key": "追忆","name": "🌠追忆┃TV","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
 {"key": "csp_AppYsV2_玉米","name": "🌽玉米┃切片","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
 
