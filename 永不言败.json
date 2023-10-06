@@ -1,10 +1,5 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
-{
-
-"warningText":"永不言败",    
-
-
 "sites":[
 
 {"key": "豆瓣","name": "豆瓣｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
