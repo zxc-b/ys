@@ -44,8 +44,6 @@
 
 {"key": "maolv_open","name": "🐴毛驴┃TV","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
 
-{"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
-
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
 {"key":"厂长","name":"厂长资源","type":3,"api":"csp_XBPQ","ext":"./json/厂长.json"},
@@ -53,8 +51,6 @@
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
-
-{"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
