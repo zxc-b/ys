@@ -48,10 +48,6 @@
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
-{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
-
-{"key":"ytyb","name":"🐰野兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"},
-
 {"key":"厂长","name":"厂长资源","type":3,"api":"csp_XBPQ","ext":"./json/厂长.json"},
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
@@ -61,8 +57,6 @@
 {"key": "素白","name": "🪧素白白┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
-
-{"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
 {"key":"酷云77","name":"酷云77","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 
