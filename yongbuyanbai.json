@@ -4,6 +4,26 @@
 
 {"key":"js_360影视","name":"往后余生‖永不言败","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/360影视.js"},
 
+{
+      "key": "华乐影视",
+          "name": "华乐┃🌊",
+              "type": 3,
+                  "api": "csp_XBPQ",
+                      "style": {
+                              "type": "oval",
+                                      "ratio": 0.75
+                                          },
+                                              "ext": {
+                                                      "标题": "title=\"&&\"",
+                                                      	    "副标题": "class=\"public-list-prb hide ft2\">&&</span>",
+                                                                    "图片": "data-src=\"&&\"",
+                                                                            "线路数组":"class=\"swiper-wrapper\">&&</div>",
+                                                                                   "线路标题":"class=\"fa ds-dianying\">&&</span>[替换:span class=\"badge\">>>✮]",
+                                                                                   	    "分类url": "https://www.huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/.html",
+                                                                                                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+                                                                                                     }
+                                                                                                     },
+                          
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/奇珍异兽.js"},
 
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/优酷.js"},
