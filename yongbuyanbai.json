@@ -6,18 +6,8 @@
 
 {"key": "csp_AppYsV2_大鹏","name": "🍳大鹏┃TV","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
-{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
+{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json},
 
-{
-        "key": "蚂蚁",
-              "name": " 🦸‍♂️忍者┃直连",
-                    "type": 3,
-                          "api": "csp_MYYS",
-                                "searchable": 1,
-                                      "quickSearch": 1,
-                                            "filterable": 0,
-                                                  "ext": "http://rzys.xyz"
-                                                      },
 {
       "key": "华乐影视",
           "name": "华乐┃🌊",
