@@ -42,8 +42,6 @@
 
 {"key": "Alips","name": "阿里 ┃ 盘搜[4K]","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/tok.txt"},
 
-{"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
-
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
