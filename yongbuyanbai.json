@@ -4,6 +4,8 @@
 
 {"key":"js_360影视","name":"往后余生‖永不言败","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/360影视.js"},
 
+{"key":"sohu","name":"搜狐(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+
 {"key": "csp_AppYsV2_大鹏","name": "🍳大鹏┃TV","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
