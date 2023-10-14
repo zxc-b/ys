@@ -4,6 +4,17 @@
 
 {"key":"js_360影视","name":"往后余生‖永不言败","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/360影视.js"},
 
+    {
+            "key": "蚂蚁",
+                  "name": "🐜蚂蚁┃直连",
+                        "type": 3,
+                              "api": "csp_MYYS",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "changeable": 1,
+                                                      "ext": "http://rzys.xyz"
+                                                          },
+
  {
          "key": "影巢",
                "name": " 🐦影巢┃4k",
