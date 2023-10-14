@@ -25,7 +25,9 @@
                                  "searchable": 1,
                                        "quickSearch": 1,
                                              "changeable": 1,
-                                                   "ext": "./json/nmys.json"},                                                     
+                                                   "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+                                                       },
+                
 {"key":"sohu","name":"搜狐(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
 {"key": "csp_AppYsV2_大鹏","name": "🍳大鹏┃TV","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
