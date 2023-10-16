@@ -65,6 +65,17 @@
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
+ {
+         "key": "蚂蚁",
+               "name": "🐜蚂蚁┃直连",
+                     "type": 3,
+                           "api": "csp_MYYS",
+                                 "searchable": 1,
+                                       "quickSearch": 1,
+                                             "changeable": 1,
+                                                   "ext": "http://rzys.xyz"
+                                                       },
+                                                       
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
