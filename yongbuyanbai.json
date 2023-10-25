@@ -6,19 +6,6 @@
 
 {"key": "蚂蚁","name": "🐜 蚂蚁", "type": 3,"api": "csp_Mayiys","jar": "https://gitee.com/lianes/lanco/raw/master/fan.txt;md5;533f279c487b5bd34cf4947a7afbee34","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://rzys.xyz" },
 
- {
-         "key": "影巢",
-               "name": " 🐦影巢┃4k",
-                     "type": 3,
-                           "api": "csp_Hdhive",
-                                 "playerType":1,
-                                       "searchable": 1,
-                                             "quickSearch": 1,
-                                                   "filterable": 0,
-                                                         "ext": "./tvbox/tok.txt",
-                                                               "jar": "./jar/app.jar"
-                                                                   },
-
 {"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
     
