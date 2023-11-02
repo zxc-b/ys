@@ -145,7 +145,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url":"./9.txt",
+		    "url":"./2.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
