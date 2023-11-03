@@ -4,29 +4,6 @@
 
 {"key":"js_360影视","name":"往后余生‖永不言败","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/360影视.js"},           
 
-    {
-            "key": "應用商店",
-                  "name": "业余应用商店",
-                        "type": 3,
-                              "api": "csp_Market",
-                                    "searchable": 0,
-                                          "changeable": 0,
-                                                "ext": "http://111.67.195.139/yydf/lib/market.json",
-                                                      "jar": "http://111.67.195.139/yydf/lib/fm商店.jar"
-                                                          },
-
-                                                              {
-                                                                    "key": "應用商店",
-                                                                          "name": "影视应用商店",
-                                                                                "type": 3,
-                                                                                      "api": "csp_Market",
-                                                                                            "searchable": 0,
-                                                                                                  "changeable": 0,
-                                                                                                        "ext": "https://pan.shangui.cc/f/14QVsw/fd.php"
-                                                                                                        ,
-                                                                                                              "jar": "./jar.php?id=ou;md5;9d587c4abbdbc3fdbec5cd39ebba95e8"
-                                                                                                                  },
-
 {
       "key":"csp_雷达",
           "name":"💕永不言败☆雷达",
