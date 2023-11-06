@@ -40,12 +40,9 @@
 
 {"key":"js-芒果","name":"🥭芒果","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/mangguo.js"},
 
-{"key": "蚂蚁","name": "🐜 蚂蚁", "type": 3,"api": "csp_Mayiys","jar": "https://gitee.com/lianes/lanco/raw/master/fan.txt;md5;533f279c487b5bd34cf4947a7afbee34","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://rzys.xyz" },
 
 {"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
-    
-{"key": "csp_AppYsV2_大鹏","name": "🍳大鹏┃TV","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key": "csp_干饭","name": "🥣干饭┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},
 
