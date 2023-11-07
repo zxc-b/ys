@@ -88,7 +88,53 @@
 
 {"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key": "PanSou","name": "🔘盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
+
+    {
+          "key": "七夜",
+                "name": "🖥阿里┃七夜",
+                      "type": 3,
+                            "api": "csp_Dovx",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 0,
+                                                    "changeable": 0,
+                                                          "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"
+                                                              },
+
+                                                                  {
+                                                                        "key": "Upyunso",
+                                                                              "name": "🖥阿里┃云搜",
+                                                                                    "type": 3,
+                                                                                          "api": "csp_UpYun",
+                                                                                                "searchable": 1,
+                                                                                                      "quickSearch": 1,
+                                                                                                            "filterable": 0,
+                                                                                                                  "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+                                                                                                                      },
+
+                                                                                                                          {
+                                                                                                                                "key": "csp_search_Yisou",
+                                                                                                                                      "name": "🖥阿里┃易搜",
+                                                                                                                                            "type": 3,
+                                                                                                                                                  "api": "csp_YiSo",
+                                                                                                                                                        "searchable": 1,
+                                                                                                                                                              "quickSearch": 1,
+                                                                                                                                                                    "filterable": 0,
+                                                                                                                                                                          "playerType": 1,
+                                                                                                                                                                                "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+                                                                                                                                                                                    },
+
+                                                                                                                                                                                        {
+                                                                                                                                                                                              "key": "csp_search_PanSearch",
+                                                                                                                                                                                                    "name": "🖥盘Se┃搜索",
+                                                                                                                                                                                                          "type": 3,
+                                                                                                                                                                                                                "api": "csp_PanSearch",
+                                                                                                                                                                                                                      "searchable": 1,
+                                                                                                                                                                                                                            "quickSearch": 1,
+                                                                                                                                                                                                                                  "filterable": 0,
+                                                                                                                                                                                                                                        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+                                                                                                                                                                                                                                            },
+
 
 {"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"}
 
