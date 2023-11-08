@@ -4,6 +4,23 @@
 
 {"key":"js_360影视","name":"往后余生‖永不言败","type":3,"api":"./lib/apiv19drpy2.min.js","ext":"./js/360影视.js"},           
 
+    {
+            "key": "琪琪资源",
+                  "name": "摸摸🐟｜官源",
+                        "type": 1,
+                              "api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/",
+                                    "playerType": 2,
+                                          "searchable": 1,
+                                                "changeable": 1,
+                                                      "quickSearch": 1,
+                                                            "categories": [
+                                                                    "连续剧",
+                                                                            "电影",
+                                                                                    "综艺",
+                                                                                            "动漫"
+                                                                                                  ]
+                                                                                                      },
+    
 {"key":"蚂蚁","name":"蚂蚁┃App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz","jar":"http://cdn.qiaoji8.com/fix1102.jar;md5;a08a2fee3ccc85c05a7a584c9c4d1cf3"},
 
     {
