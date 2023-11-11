@@ -3,6 +3,49 @@
 "sites":[
 
     {
+            "key": "腾讯",
+                  "name": "🐧腾讯┃官源",
+                        "type": 3,
+                              "api": "./lib/drpy2.min.js",
+                                    "ext": "./js/腾讯.js"
+                                        },
+                                            
+                                                {
+                                                      "key": "优酷",
+                                                            "name": " 😎优酷┃官源",
+                                                                  "type": 3,
+                                                                        "api": "./lib/drpy2.min.js",
+                                                                              "ext": "./js/优酷.js"
+                                                                                  },
+
+                                                                                      {
+                                                                                            "key": "芒果",
+                                                                                                  "name": " 🍋芒果┃官源",
+                                                                                                        "type": 3,
+                                                                                                              "api": "./lib/drpy2.min.js",
+                                                                                                                    "ext": "./js/百忙无果.js"
+                                                                                                                        },
+                                                                                                                            
+                                                                                                                                {
+                                                                                                                                      "key": "奇艺",
+                                                                                                                                            "name": "🌲奇艺┃官源",
+                                                                                                                                                  "type": 3,
+                                                                                                                                                        "api": "./lib/drpy2.min.js",
+                                                                                                                                                              "ext": "./js/奇珍异兽.js"
+                                                                                                                                                                  },
+                                                                                                                                                                    
+                                                                                                                                                                       {
+                                                                                                                                                                             "key": "csp_SP360",
+                                                                                                                                                                                   "name": "📺360┃官源",
+                                                                                                                                                                                         "type": 3,
+                                                                                                                                                                                               "api": "csp_XBPQ",
+                                                                                                                                                                                                     "searchable": 1,
+                                                                                                                                                                                                           "quickSearch": 1,
+                                                                                                                                                                                                                 "filterable": 1,
+                                                                                                                                                                                                                       "ext": "./json/360影视.json"
+                                                                                                                                                                                                                           },
+    
+    {
             "key": "琪琪资源",
                   "name": "摸摸🐟｜官源",
                         "type": 1,
