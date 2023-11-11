@@ -92,7 +92,6 @@
 
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
 
-{"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
 {"key":"酷云77","name":"酷云77","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 
