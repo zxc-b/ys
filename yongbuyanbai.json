@@ -2,54 +2,6 @@
     "warningText":"往后余生，永不言败"  ,
 "sites":[
 
-      {
-                 "key": "drpy_js_濂囩弽寮傚吔",
-                          "name": "往后余生‖永不言败",
-                                   "type": 3,
-                                            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
-                                                     "ext": "http://alist.xn--z7x900a.love:63/鐖卞.js"
-                                                           },
-                                                                 {
-                                                                          "key": "Qtv",
-                                                                                   "name": "馃惂鈹冧紒楣呪攦瀹樻簮",
-                                                                                            "type": 3,
-                                                                                                     "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
-                                                                                                              "ext": "http://alist.xn--z7x900a.love:63/鑵句簯.js",
-                                                                                                                       "searchable": 1,
-                                                                                                                                "quickSearch": 1,
-                                                                                                                                         "filterable": 1
-                                                                                                                                               },
-                                                                                                                                                     {
-                                                                                                                                                              "key": "csp_SP360",
-                                                                                                                                                                       "name": "馃摵鈹�360鈹冨畼婧�",
-                                                                                                                                                                                "type": 3,
-                                                                                                                                                                                         "api": "csp_XBPQ",
-                                                                                                                                                                                                  "searchable": 1,
-                                                                                                                                                                                                           "quickSearch": 1,
-                                                                                                                                                                                                                    "filterable": 1,
-                                                                                                                                                                                                                             "ext": "http://鎴戜笉鏄�.鑲ョ尗.love:63/json/360褰辫.json"
-                                                                                                                                                                                                                                   },
-                                                                                                                                                                                                                                         {
-                                                                                                                                                                                                                                                  "key": "MGT",
-                                                                                                                                                                                                                                                           "name": "馃崑鈹冭姃鏋溾攦瀹樻簮",
-                                                                                                                                                                                                                                                                    "type": 3,
-                                                                                                                                                                                                                                                                             "api": "csp_Mtv",
-                                                                                                                                                                                                                                                                                      "searchable": 1,
-                                                                                                                                                                                                                                                                                               "quickSearch": 1,
-                                                                                                                                                                                                                                                                                                        "filterable": 1
-                                                                                                                                                                                                                                                                                                              },
-                                                                                                                                                                                                                                                                                                                    {
-                                                                                                                                                                                                                                                                                                                             "key": "csp_Ysgc",
-                                                                                                                                                                                                                                                                                                                                      "name": "馃帴鈹冨奖瑙嗏攦宸ュ巶",
-                                                                                                                                                                                                                                                                                                                                               "type": 3,
-                                                                                                                                                                                                                                                                                                                                                        "api": "csp_Ysgc",
-                                                                                                                                                                                                                                                                                                                                                                 "searchable": 1,
-                                                                                                                                                                                                                                                                                                                                                                          "quickSearch": 1,
-                                                                                                                                                                                                                                                                                                                                                                                   "filterable": 1,
-                                                                                                                                                                                                                                                                                                                                                                                            "ext": "https://www.ysgc.fun"
-                                                                                                                                                                                                                                                                                                                                                                                                  },
-        
-
     {
             "key": "琪琪资源",
                   "name": "摸摸🐟｜官源",
