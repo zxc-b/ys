@@ -62,16 +62,7 @@
                                                                                             "动漫"
                                                                                                   ]
                                                                                                       },
-    
-        {
-                   "key": "火狐影视",
-                            "name": "♏丨火狐【☯️】",
-                                     "type": 3,
-                                              "api": "./caiji.js",
-                                                       "ext":{"url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
-                                                                "categories": [ "欧美剧","香港剧","马泰剧","韩剧","日剧","伦理片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","内地剧","动画片","中国动漫","日本动漫","欧美动漫","台湾剧","大陆综艺","日韩综艺","港台综艺","欧美综艺"]
-                                                                	}
-                                                                      },
+  
         
 {"key":"蚂蚁","name":"蚂蚁┃App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz","jar":"http://cdn.qiaoji8.com/fix1102.jar;md5;a08a2fee3ccc85c05a7a584c9c4d1cf3"},
 
