@@ -88,6 +88,9 @@
                                                                                                               "jar": "./jar/jar.php?id=ou;md5;9d587c4abbdbc3fdbec5cd39ebba95e8"
                                                                                                                   },
 
+
+{"key": "应用商店","name": "🏫应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext":"https://codeberg.org/wuyou/TVBox/raw/branch/main/yy/yysc.json","jar":"https://codeberg.org/wuyou/TVBox/raw/branch/main/jar/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"},
+
 {
       "key":"csp_雷达",
           "name":"💕永不言败☆雷达",
