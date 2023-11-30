@@ -77,10 +77,7 @@
                                                                                     "综艺",
                                                                                             "动漫"
                                                                                                   ]
-                                                                                                      },
-  
-        
-{"key":"蚂蚁","name":"蚂蚁┃App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz","jar":"http://cdn.qiaoji8.com/fix1102.jar;md5;a08a2fee3ccc85c05a7a584c9c4d1cf3"},
+                                                                                          },
 
     {
             "key": "應用商店",
