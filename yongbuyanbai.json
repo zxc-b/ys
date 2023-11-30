@@ -12,8 +12,11 @@
                                                                             "filterable": 1,
                                                                                   "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
                                                                                       },
-                      
-    
+
+   {"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},                   
+
+  {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
+  
   {
           "key": "csp_SP360",
                 "name": "📺360┃官源",
