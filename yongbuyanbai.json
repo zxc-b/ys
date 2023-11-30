@@ -3,7 +3,7 @@
 "sites":[
       	          {
                                   "key": "xgapp",
-                                        "name": "西瓜",
+                                        "name": "西瓜‖影视",
                                               "type": 3,
                                                     "playerType": 2,
                                                           "api": "csp_AppYsV2",
@@ -151,7 +151,7 @@
 
     {
                    "key": "酷云77",
-                            "name": "酷云77",
+                            "name": "酷云77‖影视",
                                      "type": 3,
                                               "api": "csp_Kunyu77",
                                                        "searchable": 1,
