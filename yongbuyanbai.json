@@ -79,17 +79,6 @@
                                                                                                   ]
                                                                                           },
 
-    {
-            "key": "應用商店",
-                  "name": "♻️业余-应用商店",
-                        "type": 3,
-                              "api": "csp_Market",
-                                    "searchable": 0,
-                                          "changeable": 0,
-                                                "ext": "http://111.67.195.139/yydf/lib/market.json",
-                                                      "jar": "http://111.67.195.139/yydf/lib/fm商店.jar"
-                                                          },
-
                                                               {
                                                                     "key": "應用商1店",
                                                                           "name": "🛒影视应用商1店",
@@ -103,7 +92,6 @@
                                                                                                                   },
 
 
-{"key": "应用商店","name": "🏫应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext":"https://codeberg.org/wuyou/TVBox/raw/branch/main/yy/yysc.json","jar":"https://codeberg.org/wuyou/TVBox/raw/branch/main/jar/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"},
 
 {
       "key":"csp_雷达",
@@ -113,16 +101,16 @@
                       "searchable":1,
                           "quickSearch":1,
                               "filterable":1,
-                                  "ext":"./json/雷达.json"
+                                  "ext":"./json/雷达. json"
                                       },
 
-{"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+{"key": “AppYs_南瓜”,"name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
 
-{"key": "csp_干饭","name": "🥣干饭┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},                             
+{"key": “csp_干饭”,"name": “干饭电视”,"type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭. json"},                             
 
   {"key": "csp_WoGG",
-        "name": "👽玩偶┃4K",
+        "name": “玩偶”,
               "type": 3,
                     "api": "csp_WoGG",
                           "searchable": 1,
@@ -131,23 +119,21 @@
                                             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
                                                 }, 
                                                                      
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},                                                        
-{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":“http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$$$https://www.wogg.xyz/$$$弹”},                                                        
+{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎. json"},
 
-{"key": "csp_黑狐","name": "🦝黑狐┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/黑狐.json"},
+{"key": “csp_黑狐”,"name": "🦝黑狐┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/黑狐. json"},
                
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
+{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港. json","jar":"./jar/xyq.jar"},
 
-{"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
+{"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视. json"},
 
 {"key": "qq2k","name": "🏵QQ┃2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+{"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟. json"},                                                    
+{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫. json"},
 
-{"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},                                                    
-{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
-
-{"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"},
+{"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川. json"},
 
     {
                    "key": "酷云77",
